@@ -1,0 +1,91 @@
+{
+    "Supermercados": [
+        {
+            "Id": "1",
+            "Nome": "Dia",
+            "Cidade": "Contagem",
+            "Estado": "MG"
+        },
+        {
+            "Id": "2",
+            "Nome": "Supermercados BH",
+            "Cidade": "Contagem",
+            "Estado": "MG"
+        },
+        {
+            "Id": "3",
+            "Nome": "Mart Minas",
+            "Cidade": "Contagem",
+            "Estado": "MG"
+        }
+    ],
+    "Ofertas": [
+        {
+            "Id": "1",
+            "Produto": "1",
+            "Validade": "9/14/18",
+            "Supermecado": "1"
+        },
+        {
+            "Id": "2",
+            "Produto": "2",
+            "Validade": "9/16/18",
+            "Supermecado": "1"
+        },
+        {
+            "Id": "3",
+            "Produto": "3",
+            "Validade": "9/19/18",
+            "Supermecado": "1"
+        },
+        {
+            "Id": "4",
+            "Produto": "4",
+            "Validade": "9/19/18",
+            "Supermecado": "1"
+        },
+        {
+            "Id": "5",
+            "Produto": "5",
+            "Validade": "9/19/18",
+            "Supermecado": "1"
+        }
+    ],
+    "Produto": [
+        {
+            "Id": "1",
+            "Marca": "Carrujo",
+            "Nome": "Arroz Carrujo",
+            "Quantidade": "5KG",
+            " Preço ": " R$ 10.49 "
+        },
+        {
+            "Id": "2",
+            "Marca": "Pilão",
+            "Nome": "Café Pilão",
+            "Quantidade": "500g",
+            " Preço ": " R$ 7.89 "
+        },
+        {
+            "Id": "3",
+            "Marca": "Hellmanns",
+            "Nome": "Maionese Hellmanns",
+            "Quantidade": "500g",
+            " Preço ": " R$ 4.89 "
+        },
+        {
+            "Id": "4",
+            "Marca": "Dia",
+            "Nome": "Macarrão com Ovos Dia",
+            "Quantidade": "500g",
+            " Preço ": " R$ 1.99 "
+        },
+        {
+            "Id": "5",
+            "Marca": "Antarctica",
+            "Nome": "Guaraná Antarctica",
+            "Quantidade": "3,3l",
+            " Preço ": " R$ 6.75 "
+        }
+    ]
+}
